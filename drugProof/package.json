@@ -1,0 +1,11 @@
+{
+  "name": "drug-proof",
+  "version": "0.0.1",
+  "description": "An interface with the muse headset to detect if the end user is inebriated.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ptarsoly",
+  "license": "ISC"
+}
